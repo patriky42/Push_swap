@@ -24,4 +24,4 @@ Este proyecto involucra ordenar datos en un stack, con un conjunto limitado de i
 
 Puedes comprobar que el proyecto funciona correctamente con el tester creado por nuestro compañero de 42 Barcelona. 
 
-➡️ [TESTER PROPIO DE GEMARTIN](https://github.com/gemartin99/Push_swap_tester) ⬅️
+➡️ [TESTER DE GEMARTIN](https://github.com/gemartin99/Push_swap_tester) ⬅️
